@@ -1,0 +1,478 @@
+Name	Set	ImageFile	Type	Sub-Type	Rarity
+Alice in Wonderland	Base	Alice_in_Wonderland_Challenge	Challenge	Enigma	C
+Alien Savages	Base	Alien_Savages_Challenge	Challenge	Ambush	C
+Andorians	Base	Andorians_Challenge	Challenge	Capture	C
+Android Duplicate!	Base	Android_Duplicate_Challenge	Challenge	Attack	V
+Ayelborne	Base	Ayelborne_Challenge	Challenge	Enigma or Negotiate	R
+Balok	Base	Balok_Challenge	Challenge	Enigma or Negotiate	R
+Bele	Base	Bele_Challenge	Challenge	Capture or Argue	R
+Ben Childress	Base	Ben_Childress_Challenge	Challenge	Negotiate	U
+Bilar	Base	Bilar_Challenge	Challenge	Attack or Capture	U
+Black Knight	Base	Black_Knight_Challenge	Challenge	Attack	U
+Capellans	Base	Capellans_Challenge	Challenge	Capture	C
+Claudius Marcus	Base	Claudius_Marcus_Challenge	Challenge	Conquer or Command or Argue	R
+Colonel Green	Base	Colonel_Green_Challenge	Challenge	Ambush or Capture or Outwit	C
+Commodore Jose' Mendez	Base	Commodore_Jose_Mendez_Challenge	Challenge	Command or Enigma	V
+Commodore Stone	Base	Commodore_Stone_Challenge	Challenge	Command or Negotiate	U
+Decius	Base	Decius_Challenge	Challenge	Capture	C
+Denevan Neural Parasites	Base	Denevan_Neural_Parasites_Challenge	Challenge	Conquer	R
+Dikironium Cloud Creature	Base	Dikironium_Cloud_Creature_Challenge	Challenge	Ambush or Outwit	V
+Don Juan	Base	Don_Juan_Challenge	Challenge	Enigma or Capture	C
+Dr. Brown	Base	Dr_Brown_Challenge	Challenge	Capture or Enigma	C
+Dr. Elizabeth Dehner*	Base	Dr_Elizabeth_Dehner_Challenge	Challenge	Negotiate or Mind Control	V
+Dr. Roger Korby	Base	Dr_Roger_Korby_Challenge	Challenge	Outwit or Argue	R
+Dr. Simon Van Gelder	Base	Dr_Simon_Van_Gelder_Challenge	Challenge	Ambush or Enigma	C
+Dr. Tristan Adams	Base	Dr_Tristan_Adams_Challenge	Challenge	Mind Control or Command	U
+Elias Sandoval	Base	Elias_Sandoval_Challenge	Challenge	Argue or Enigma	U
+Eve McHuron	Base	Eve_McHuron_Challenge	Challenge	Tempt	U
+Former Love	Base	Former_Love_Challenge	Challenge	Enigma or Tempt	V
+Former Rival Finnegan	Base	Former_Rival_Finnegan_Challenge	Challenge	Enigma or Capture	V
+Galactic High Commissioner Ferris	Base	Galactic_High_Commissioner_Ferris_Challenge	Challenge	Argue or Command	V
+Genghis Khan	Base	Genghis_Khan_Challenge	Challenge	Attack or Conquer	U
+Gorn Captain	Base	Gorn_Captain_Challenge	Challenge	Attack	C
+Hacom	Base	Hacom_Challenge	Challenge	Capture or Outwit	R
+Horta	Base	Horta_Challenge	Challenge	Attack	U
+Hostile Miners	Base	Hostile_Miners_Challenge	Challenge	Capture or Negotiate	C
+Insane Colonists	Base	Insane_Colonists_Challenge	Challenge	Attack	C
+Jahn	Base	Jahn_Challenge	Challenge	Capture	R
+Joaquin	Base	Joaquin_Challenge	Challenge	Capture	U
+Kahless	Base	Kahless_Challenge	Challenge	Attack or Outwit	R
+Kang	Base	Kang_Challenge	Challenge	Attack or Command	U
+Khan Noonien Singh	Base	Khan_Noonien_Singh_Challenge	Challenge	Capture or Outwit or Conquer	R
+Klingon Landing Party	Base	Klingon_Landing_Party_Challenge	Challenge	Capture	C
+Klingon Sniper	Base	Klingon_Sniper_Challenge	Challenge	Ambush	V
+Klingon Warrior	Base	Klingon_Warrior_Challenge	Challenge	Attack	U
+Kor	Base	Kor_Challenge	Challenge	Capture	U
+Landru	Base	Landru_Challenge	Challenge	Command or Conquer	R
+Lawgivers	Base	Lawgivers_Challenge	Challenge	Capture	C
+Lazarus	Base	Lazarus_Challenge	Challenge	Enigma or Argue	C
+Leila Kalomi	Base	Leila_Kalomi_Challenge	Challenge	Tempt	U
+Lenore Karidian	Base	Lenore_Karidian_Challenge	Challenge	Ambush or Fatal Allure	R
+Lethe	Base	Lethe_Challenge	Challenge	Enigma	R
+Lieutenant Commander Gary Mitchell*	Base	Lieutenant_Commander_Gary_Mitchell_Challenge	Challenge	Capture or Mind Control	V
+M-113 Monster (Crewman Green Form)	Base	M-113_Monster_(Crewman_Green_Form)_Challenge	Challenge	Fatal Allure or Attack	V
+M-113 Monster (Natural Form)	Base	M-113_Monster_(Natural_Form)_Challenge	Challenge	Fatal Allure or Attack	V
+Magda Kovacs	Base	Magda_Kovacs_Challenge	Challenge	Tempt	C
+Mara	Base	Mara_Challenge	Challenge	Capture or Tempt	U
+Melkotians	Base	Melkotians_Challenge	Challenge	Outwit or Enigma	U
+Metron	Base	Metron_Challenge	Challenge	* or Enigma	R
+Military Officers, 20th Century	Base	Military_Officers_20th_Century_Challenge	Challenge	Capture or Negotiate	U
+Miri	Base	Miri_Challenge	Challenge	Argue or Enigma	U
+Mudd's Women	Base	Mudds_Women_Challenge	Challenge	Tempt	U
+Mugato	Base	Mugato_Challenge	Challenge	Ambush	R
+Nomad	Base	Nomad_Challenge	Challenge	Outwit or Command	V
+Onlies	Base	Onlies_Challenge	Challenge	Capture	C
+Organian Council of Elders	Base	Organian_Council_of_Elders_Challenge	Challenge	Enigma or Negotiate	V
+Otto	Base	Otto_Challenge	Challenge	Capture	U
+Planetary Guards	Base	Planetary_Guards_Challenge	Challenge	Capture	C
+Plasus	Base	Plasus_Challenge	Challenge	Negotiate or Argue	U
+Rojan	Base	Rojan_Challenge	Challenge	Outwit or Conquer	R
+Romulan Battle Cruiser Commander	Base	Romulan_Battle_Cruiser_Commander_Challenge	Challenge	Capture or Tempt	U
+Romulan Bird-of-Prey Commander	Base	Romulan_Bird-of-Prey_Commander_Challenge	Challenge	Capture or Outwit	C
+Romulan Centurion	Base	Romulan_Centurion_Challenge	Challenge	Capture or Argue	U
+Ruk	Base	Ruk_Challenge	Challenge	Attack	C
+Ruth Bonaventure	Base	Ruth_Bonaventure_Challenge	Challenge	Tempt	C
+Samurai Warrior	Base	Samurai_Warrior_Challenge	Challenge	Attack or Enigma	C
+Talosians	Base	Talosians_Challenge	Challenge	Outwit or Enigma	U
+Tellarites	Base	Tellarites_Challenge	Challenge	Befuddle or Argue	C
+The Kaylar	Base	The_Kaylar_Challenge	Challenge	Attack	C
+The Keeper	Base	The_Keeper_Challenge	Challenge	Outwit or Tempt	V
+Transporter Duplicate	Base	Transporter_Duplicate_Challenge	Challenge	Attack or Outwit	V
+Trefayne	Base	Trefayne_Challenge	Challenge	Enigma or Negotiate	U
+Trelane	Base	Trelane_Challenge	Challenge	Capture or Befuddle	C
+Vina	Base	Vina_Challenge	Challenge	Enigma or Tempt	U
+Vina, the Orion Dancer	Base	Vina_the_Orion_Dancer_Challenge	Challenge	Tempt	R
+White Rabbit	Base	White_Rabbit_Challenge	Challenge	Befuddle	C
+Witch	Base	Witch_Challenge	Challenge	Enigma	U
+Wyatt Earp	Base	Wyatt_Earp_Challenge	Challenge	Attack	U
+Yarnek	Base	Yarnek_Challenge	Challenge	Outwit	R
+Captain James T. Kirk	Base	Captain_James_T_Kirk_Core_Crew,silverback	Core Crew		S
+Commander Spock	Base	Commander_Spock_Core_Crew,silverback	Core Crew		S
+Dr. Leonard H. Bones McCoy	Base	Dr_Leonard_H_Bones_McCoy_Core_Crew,silverback	Core Crew		S
+U.S.S. Enterprise	Base	USS_Enterprise_Core_Crew,silverback	Core Crew		S
+Dr. Elizabeth Dehner	Base	Dr_Elizabeth_Dehner_Crew	Crew		U
+Dr. Mark Piper	Base	Dr_Mark_Piper_Crew	Crew		R
+Ensign Angela Martine	Base	Ensign_Angela_Martine_Crew	Crew		C
+Ensign Matthews	Base	Ensign_Matthews_Crew	Crew		C
+Ensign Pavel A. Chekov	Base	Ensign_Pavel_A_Chekov_Crew	Crew		U
+Ensign Rayburn	Base	Ensign_Rayburn_Crew	Crew		C
+Geological Technician Fisher	Base	Geological_Technician_Fisher_Crew	Crew		R
+Lieutenant (j.g.) Joe Tormolen	Base	Lieutenant_(jg)_Joe_Tormolen_Crew	Crew		C
+Lieutenant Alden	Base	Lieutenant_Alden_Crew	Crew		R
+Lieutenant Charlene Masters	Base	Lieutenant_Charlene_Masters_Crew	Crew		C
+Lieutenant Commander Benjamin Finney	Base	Lieutenant_Commander_Benjamin_Finney_Crew	Crew		R
+Lieutenant Commander Gary Mitchell	Base	Lieutenant_Commander_Gary_Mitchell_Crew	Crew		R
+Lieutenant Commander Giotto	Base	Lieutenant_Commander_Giotto_Crew	Crew		C
+Lieutenant Commander Kelowitz	Base	Lieutenant_Commander_Kelowitz_Crew	Crew		C
+Lieutenant Commander Montgomery Scott	Base	Lieutenant_Commander_Montgomery_Scott_Crew	Crew		U
+Lieutenant D'Amato	Base	Lieutenant_DAmato_Crew	Crew		C
+Lieutenant DePaul	Base	Lieutenant_DePaul_Crew	Crew		U
+Lieutenant DeSalle	Base	Lieutenant_DeSalle_Crew	Crew		R
+Lieutenant Esteban Rodriguez	Base	Lieutenant_Esteban_Rodriguez_Crew	Crew		C
+Lieutenant Gaetano	Base	Lieutenant_Gaetano_Crew	Crew		C
+Lieutenant Hikaru Sulu	Base	Lieutenant_Hikaru_Sulu_Crew	Crew		U
+Lieutenant Karl Jaeger	Base	Lieutenant_Karl_Jaeger_Crew	Crew		R
+Lieutenant Kevin T. Riley	Base	Lieutenant_Kevin_T_Riley_Crew	Crew		R
+Lieutenant Kyle	Base	Lieutenant_Kyle_Crew	Crew		V
+Lieutenant Lang	Base	Lieutenant_Lang_Crew	Crew		C
+Lieutenant Latimer	Base	Lieutenant_Latimer_Crew	Crew		U
+Lieutenant Lee Kelso	Base	Lieutenant_Lee_Kelso_Crew	Crew		U
+Lieutenant Leslie	Base	Lieutenant_Leslie_Crew	Crew		U
+Lieutenant Lindstrom	Base	Lieutenant_Lindstrom_Crew	Crew		U
+Lieutenant Marla McGivers	Base	Lieutenant_Marla_McGivers_Crew	Crew		V
+Lieutenant Mira Romaine	Base	Lieutenant_Mira_Romaine_Crew	Crew		R
+Lieutenant O'Neil	Base	Lieutenant_ONeil_Crew	Crew		C
+Lieutenant Painter	Base	Lieutenant_Painter_Crew	Crew		U
+Lieutenant Robert Tomlinson	Base	Lieutenant_Robert_Tomlinson_Crew	Crew		C
+Lieutenant Spinelli	Base	Lieutenant_Spinelli_Crew	Crew		C
+Lieutenant Thom Parham	Base	Lieutenant_Thom_Parham_Crew	Crew		V
+Lieutenant Uhura	Base	Lieutenant_Uhura_Crew	Crew		U
+Nurse Christine Chapel	Base	Nurse_Christine_Chapel_Crew	Crew		U
+Transporter Technician Wilson	Base	Transporter_Technician_Wilson_Crew	Crew		R
+Yeoman Janice Rand	Base	Yeoman_Janice_Rand_Crew	Crew		U
+Yeoman Karen Greene	Base	Yeoman_Karen_Greene_Crew	Crew		C
+Yeoman Martha Landon	Base	Yeoman_Martha_Landon_Crew	Crew		R
+Yeoman Mears	Base	Yeoman_Mears_Crew	Crew		C
+Yeoman Smith	Base	Yeoman_Smith_Crew	Crew		C
+Yeoman Teresa Ross	Base	Yeoman_Teresa_Ross_Crew	Crew		C
+Yeoman Tina Lawton	Base	Yeoman_Tina_Lawton_Crew	Crew		U
+Default Discovery	Base	CORE_EPISODE_Default_Discovery,silverback	Core Episode Discovery		S
+Default Mission	Base	CORE_EPISODE_Default_Mission,silverback	Core Eipisode Mission		S
+Default Plot	Base	CORE_EPISODE_Default_Plot,silverback	Core Episode Plot		S
+A Taste of Armageddon [D]	Base	A_Taste_of_Armageddon_Discovery	Episode Discovery		R
+Arena [D]	Base	Arena_Discovery	Episode Discovery		U
+Balance of Terror [D]	Base	Balance_of_Terror_Discovery	Episode Discovery		C
+Charlie X [D]	Base	Charlie_X_Discovery	Episode Discovery		C
+Court-Martial [D]	Base	Court-Martial_Discovery	Episode Discovery		R
+Dagger of the Mind [D]	Base	Dagger_of_the_Mind_Discovery	Episode Discovery		U
+Errand of Mercy [D]	Base	Errand_of_Mercy_Discovery	Episode Discovery		U
+Miri [D]	Base	Miri_Discovery	Episode Discovery		U
+Mudd's Women [D]	Base	Mudds_Women_Discovery	Episode Discovery		C
+Operation: Annihilate! [D]	Base	Operation-_Annihilate_Discovery	Episode Discovery		C
+Return of the Archons [D]	Base	Return_of_the_Archons_Discovery	Episode Discovery		U
+Shore Leave [D]	Base	Shore_Leave_Discovery	Episode Discovery		C
+Space Seed [D]	Base	Space_Seed_Discovery	Episode Discovery		C
+The Alternative Factor [D]	Base	The_Alternative_Factor_Discovery	Episode Discovery		C
+The Cage [D]	Base	The_Cage_Discovery	Episode Discovery		C
+The City on the Edge of Forever [D]	Base	The_City_on_the_Edge_of_Forever_Discovery	Episode Discovery		C
+The Conscience of the King [D]	Base	The_Conscience_of_the_King_Discovery	Episode Discovery		R
+The Corbomite Maneuver [D]	Base	The_Corbomite_Maneuver_Discovery	Episode Discovery		C
+The Devil in the Dark [D]	Base	The_Devil_in_the_Dark_Discovery	Episode Discovery		C
+The Enemy Within [D]	Base	The_Enemy_Within_Discovery	Episode Discovery		U
+The GALILEO Seven [D]	Base	The_GALILEO_Seven_Discovery	Episode Discovery		C
+The Man Trap [D]	Base	The_Man_Trap_Discovery	Episode Discovery		C
+The Menagerie [D]	Base	The_Menagerie_Discovery	Episode Discovery		C
+The Naked Time [D]	Base	The_Naked_Time_Discovery	Episode Discovery		R
+The Squire of Gothos [D]	Base	The_Squire_of_Gothos_Discovery	Episode Discovery		C
+This Side of Paradise [D]	Base	This_Side_of_Paradise_Discovery	Episode Discovery		C
+Tomorrow is Yesterday [D]	Base	Tomorrow_is_Yesterday_Discovery	Episode Discovery		C
+What Are Little Girls Made Of? [D]	Base	What_Are_Little_Girls_Made_Of_Discovery	Episode Discovery		U
+Where No Man Has Gone Before [D]	Base	Where_No_Man_Has_Gone_Before_Discovery	Episode Discovery		U
+Disruptor Blast	Base	Disruptor_Blast_Effect	Effect		U
+Dose of the Venus Drug	Base	Dose_of_the_Venus_Drug_Effect	Effect		R
+Have Some Tranya	Base	Have_Some_Tranya_Effect	Effect		U
+IDIC	Base	IDIC_Effect	Effect		R
+Makeshift Weapons	Base	Makeshift_Weapons_Effect	Effect		U
+Medical Readout	Base	Medical_Readout_Effect	Effect		R
+Medikit [L]	Base	Medikit_(Blue_Icon)_Effect	Effect	Logic	C
+Medikit [C]	Base	Medikit_(Red_Icon)_Effect	Effect	Combat	C
+Mind-Sifter	Base	Mind-Sifter_Effect	Effect		R
+Phaser Blast [L]	Base	Phaser_Blast_(Blue_Icon)_Effect	Effect	Logic	C
+Phaser Blast [H]	Base	Phaser_Blast_(Yellow_Icon)_Effect	Effect	Humanity	C
+Phaser on Overload	Base	Phaser_on_Overload_Effect	Effect		R
+Phaser Rifle Fire	Base	Phaser_Rifle_Fire_Effect	Effect		R
+Slug of Saurian Brandy	Base	Slug_of_Saurian_Brandy_Effect	Effect		C
+Song of a Vulcan Harp	Base	Song_of_a_Vulcan_Harp_Effect	Effect		R
+Tricorder Reading [C]	Base	Tricorder_Reading_(Red_Icon)_Effect	Effect	Combat	C
+Tricorder Reading [H]	Base	Tricorder_Reading_(Yellow_Icon)_Effect	Effect	Humanity	C
+Info Card	Base	Info_Card_Info_Card,silverback	Core Info Card		S
+A Taste of Armageddon [M]	Base	A_Taste_of_Armageddon_Mission	Episode Mission		U
+Arena [M]	Base	Arena_Mission	Episode Mission		C
+Balance of Terror [M]	Base	Balance_of_Terror_Mission	Episode Mission		C
+Charlie X [M]	Base	Charlie_X_Mission	Episode Mission		U
+Court-Martial [M]	Base	Court-Martial_Mission	Episode Mission		U
+Dagger of the Mind [M]	Base	Dagger_of_the_Mind_Mission	Episode Mission		R
+Errand of Mercy [M]	Base	Errand_of_Mercy_Mission	Episode Mission		C
+Miri [M]	Base	Miri_Mission	Episode Mission		C
+Mudd's Women [M]	Base	Mudds_Women_Mission	Episode Mission		C
+Operation: Annihilate! [M]	Base	Operation-_Annihilate_Mission	Episode Mission		C
+Return of the Archons [M]	Base	Return_of_the_Archons_Mission	Episode Mission		U
+Shore Leave [M]	Base	Shore_Leave_Mission	Episode Mission		C
+Space Seed [M]	Base	Space_Seed_Mission	Episode Mission		C
+The Alternative Factor [M]	Base	The_Alternative_Factor_Mission	Episode Mission		C
+The Cage [M]	Base	The_Cage_Mission	Episode Mission		C
+The City on the Edge of Forever [M]	Base	The_City_on_the_Edge_of_Forever_Mission	Episode Mission		U
+The Conscience of the King [M]	Base	The_Conscience_of_the_King_Mission	Episode Mission		U
+The Corbomite Maneuver [M]	Base	The_Corbomite_Maneuver_Mission	Episode Mission		C
+The Devil in the Dark [M]	Base	The_Devil_in_the_Dark_Mission	Episode Mission		C
+The Enemy Within [M]	Base	The_Enemy_Within_Mission	Episode Mission		R
+The GALILEO Seven [M]	Base	The_GALILEO_Seven_Mission	Episode Mission		U
+The Man Trap [M]	Base	The_Man_Trap_Mission	Episode Mission		C
+The Menagerie [M]	Base	The_Menagerie_Mission	Episode Mission		C
+The Naked Time [M]	Base	The_Naked_Time_Mission	Episode Mission		U
+The Squire of Gothos [M]	Base	The_Squire_of_Gothos_Mission	Episode Mission		C
+This Side of Paradise [M]	Base	This_Side_of_Paradise_Mission	Episode Mission		U
+Tomorrow is Yesterday [M]	Base	Tomorrow_is_Yesterday_Mission	Episode Mission		C
+What Are Little Girls Made Of? [M]	Base	What_Are_Little_Girls_Made_Of_Mission	Episode Mission		C
+Where No Man Has Gone Before [M]	Base	Where_No_Man_Has_Gone_Before_Mission	Episode Mission		C
+Ion Storm	Base	Ion_Storm_Permanent_Wild	Permanent Wild		U
+New Life and New Civilizations	Base	New_Life_and_New_Civilizations_Permanent_Wild	Permanent Wild		C
+Romulan Bird-of-Prey	Base	Romulan_Bird-of-Prey_Permanent_Wild	Permanent Wild		U
+S.S. FESARIUS	Base	SS_FESARIUS_Permanent_Wild	Permanent Wild		V
+SHUTTLECRAFT GALILEO	Base	SHUTTLECRAFT_GALILEO_Permanent_Wild	Permanent Wild		C
+Starbase 11	Base	Starbase_11_Permanent_Wild	Permanent Wild		R
+Talos IV	Base	Talos_IV_Permanent_Wild	Permanent Wild		V
+A Taste of Armageddon [P]	Base	A_Taste_of_Armageddon_Plot	Episode Plot		U
+Arena [P]	Base	Arena_Plot	Episode Plot		C
+Balance of Terror [P]	Base	Balance_of_Terror_Plot	Episode Plot		C
+Charlie X [P]	Base	Charlie_X_Plot	Episode Plot		C
+Court-Martial [P]	Base	Court-Martial_Plot	Episode Plot		U
+Dagger of the Mind [P]	Base	Dagger_of_the_Mind_Plot	Episode Plot		U
+Errand of Mercy [P]	Base	Errand_of_Mercy_Plot	Episode Plot		C
+Miri [P]	Base	Miri_Plot	Episode Plot		C
+Mudd's Women [P]	Base	Mudds_Women_Plot	Episode Plot		U
+Operation: Annihilate! [P]	Base	Operation-_Annihilate_Plot	Episode Plot		U
+Return of the Archons [P]	Base	Return_of_the_Archons_Plot	Episode Plot		R
+Shore Leave [P]	Base	Shore_Leave_Plot	Episode Plot		U
+Space Seed [P]	Base	Space_Seed_Plot	Episode Plot		U
+The Alternative Factor [P]	Base	The_Alternative_Factor_Plot	Episode Plot		U
+The Cage [P]	Base	The_Cage_Plot	Episode Plot		C
+The City on the Edge of Forever [P]	Base	The_City_on_the_Edge_of_Forever_Plot	Episode Plot		C
+The Conscience of the King [P]	Base	The_Conscience_of_the_King_Plot	Episode Plot		U
+The Corbomite Maneuver [P]	Base	The_Corbomite_Maneuver_Plot	Episode Plot		C
+The Devil in the Dark [P]	Base	The_Devil_in_the_Dark_Plot	Episode Plot		C
+The Enemy Within [P]	Base	The_Enemy_Within_Plot	Episode Plot		U
+The GALILEO Seven [P]	Base	The_GALILEO_Seven_Plot	Episode Plot		C
+The Man Trap [P]	Base	The_Man_Trap_Plot	Episode Plot		C
+The Menagerie [P]	Base	The_Menagerie_Plot	Episode Plot		C
+The Naked Time [P]	Base	The_Naked_Time_Plot	Episode Plot		U
+The Squire of Gothos [P]	Base	The_Squire_of_Gothos_Plot	Episode Plot		C
+This Side of Paradise [P]	Base	This_Side_of_Paradise_Plot	Episode Plot		C
+Tomorrow is Yesterday [P]	Base	Tomorrow_is_Yesterday_Plot	Episode Plot		U
+What Are Little Girls Made Of? [P]	Base	What_Are_Little_Girls_Made_Of_Plot	Episode Plot		C
+Where No Man Has Gone Before [P]	Base	Where_No_Man_Has_Gone_Before_Plot	Episode Plot		C
+Ambassador Robert Fox	Base	Ambassador_Robert_Fox_Wild	Wild		V
+Are You of the Body?	Base	Are_You_of_the_Body_Wild	Wild		C
+Beam Me Up, Scotty!	Base	Beam_Me_Up_Scotty_Wild	Wild		U
+Boot Scene	Base	Boot_Scene_Wild	Wild		R
+Captain John Christopher	Base	Captain_John_Christopher_Wild	Wild		U
+Caretaker	Base	Caretaker_Wild	Wild		R
+Communicators Jammed!	Base	Communicators_Jammed_Wild	Wild		C
+Corbomite Maneuver	Base	Corbomite_Maneuver_Wild	Wild		C
+Court-Martial	Base	Court-Martial_Wild	Wild		C
+Cultural Envoy	Base	Cultural_Envoy_Wild	Wild		V
+Decisive Action	Base	Decisive_Action_Wild	Wild		R
+Deflector Shields at Maximum!	Base	Deflector_Shields_at_Maximum_Wild	Wild		C
+Direct Hit!	Base	Direct_Hit_Wild	Wild		U
+Distraction	Base	Distraction_Wild	Wild		C
+Edge of the Galaxy	Base	Edge_of_the_Galaxy_Wild	Wild		V
+Edith Keeler, 20th Century Reformer	Base	Edith_Keeler_20th_Century_Reformer_Wild	Wild		V
+Great Bird of the Galaxy	Base	Great_Bird_of_the_Galaxy_Wild	Wild		C
+Guardian of Forever	Base	Guardian_of_Forever_Wild	Wild		U
+Heroic Sacrifice	Base	Heroic_Sacrifice_Wild	Wild		C
+HypoSpray	Base	HypoSpray_Wild	Wild		C
+I'm a Doctor, Not a . . .	Base	Im_a_Doctor_Not_a_Wild	Wild		V
+Jim - This man's a Klingon!	Base	Jim_-_This_mans_a_Klingon_Wild	Wild		U
+Klingon Arms Suppliers	Base	Klingon_Arms_Suppliers_Wild	Wild		R
+Lay in New Course	Base	Lay_in_New_Course_Wild	Wild		C
+Logical Argument	Base	Logical_Argument_Wild	Wild		C
+Long-Winded Speech	Base	Long-Winded_Speech_Wild	Wild		C
+Miraculous Recovery	Base	Miraculous_Recovery_Wild	Wild		R
+Oddly Familiar Culture	Base	Oddly_Familiar_Culture_Wild	Wild		R
+Omicron Ceti III Spores	Base	Omicron_Ceti_III_Spores_Wild	Wild		U
+Orders from Starfleet	Base	Orders_from_Starfleet_Wild	Wild		R
+Personal Challenge	Base	Personal_Challenge_Wild	Wild		C
+Phasers from Space	Base	Phasers_from_Space_Wild	Wild		C
+Photon Torpedoes	Base	Photon_Torpedoes_Wild	Wild		U
+Psi 2000 Virus	Base	Psi_2000_Virus_Wild	Wild		R
+Red Alert!	Base	Red_Alert_Wild	Wild		U
+Red Hour	Base	Red_Hour_Wild	Wild		R
+Report to the Bridge!	Base	Report_to_the_Bridge_Wild	Wild		R
+Romulan Cloaking Device	Base	Romulan_Cloaking_Device_Wild	Wild		R
+Romulan Disguise	Base	Romulan_Disguise_Wild	Wild		U
+Samuel T. Cogley, Attorney	Base	Samuel_T_Cogley_Attorney_Wild	Wild		V
+Shuttlecraft Crew Revolt	Base	Shuttlecraft_Crew_Revolt_Wild	Wild		R
+Slingshot Effect	Base	Slingshot_Effect_Wild	Wild		V
+Standard Procedures	Base	Standard_Procedures_Wild	Wild		U
+Starfleet Commendation	Base	Starfleet_Commendation_Wild	Wild		U
+Talosian Illusion	Base	Talosian_Illusion_Wild	Wild		R
+Tantalus Chamber	Base	Tantalus_Chamber_Wild	Wild		V
+Thasians	Base	Thasians_Wild	Wild		V
+The Play's the Thing	Base	The_Plays_the_Thing_Wild	Wild		U
+Time Travel	Base	Time_Travel_Wild	Wild		R
+Tinkering With the Engines	Base	Tinkering_With_the_Engines_Wild	Wild		C
+Transporter, Fully Energized	Base	Transporter_Fully_Energized_Wild	Wild		R
+Transporters Operational	Base	Transporters_Operational_Wild	Wild		C
+Turnabout Intruder	Base	Turnabout_Intruder_Wild	Wild		V
+Unknown Virus	Base	Unknown_Virus_Wild	Wild		U
+Vulcan Mind-Meld	Base	Vulcan_Mind-Meld_Wild	Wild		U
+Akuta	Starfleet Maneuvers	Akuta_Challenge	Challenge	Argue	C
+Alice Series Android	Starfleet Maneuvers	Alice_Series_Android_Challenge	Challenge	Befuddle or Tempt	C
+Apollo	Starfleet Maneuvers	Apollo_Challenge	Challenge	Tempt or Capture or Command	R
+Arne Darvin	Starfleet Maneuvers	Arne_Darvin_Challenge	Challenge	Ambush or Outwit	S
+Captain Koloth	Starfleet Maneuvers	Captain_Koloth_Challenge	Challenge	Befuddle or Negotiate	C
+Colonel Fellini	Starfleet Maneuvers	Colonel_Fellini_Challenge	Challenge	Capture or Argue	C
+Commodore Matt Decker	Starfleet Maneuvers	Commodore_Matt_Decker_Challenge	Challenge	Command or Argue	U
+Companion	Starfleet Maneuvers	Companion_Challenge	Challenge	Capture or Attack	C
+Deadly Flora	Starfleet Maneuvers	Deadly_Flora_Challenge	Challenge	Ambush	U
+Eleen	Starfleet Maneuvers	Eleen_Challenge	Challenge	Ambush or Argue	C
+Feeders of Vaal	Starfleet Maneuvers	Feeders_of_Vaal_Challenge	Challenge	Ambush or Enigma	C
+Giant Black Cat	Starfleet Maneuvers	Giant_Black_Cat_Challenge	Challenge	Attack	S
+Jarvis	Starfleet Maneuvers	Jarvis_Challenge	Challenge	Argue or Negotiate	C
+Korax	Starfleet Maneuvers	Korax_Challenge	Challenge	Argue	C
+Korob	Starfleet Maneuvers	Korob_Challenge	Challenge	Capture or Befuddle	C
+Maab	Starfleet Maneuvers	Maab_Challenge	Challenge	Argue or Attack	S
+Mirror Chekov	Starfleet Maneuvers	Mirror_Chekov_Challenge	Challenge	Ambush	R
+Mirror Marlena	Starfleet Maneuvers	Mirror_Marlena_Challenge	Challenge	Fatal Allure	C
+Mirror Spock	Starfleet Maneuvers	Mirror_Spock_Challenge	Challenge	Negotiate or Outwit	R
+Mirror Sulu	Starfleet Maneuvers	Mirror_Sulu_Challenge	Challenge	Attack	R
+Nilz Baris	Starfleet Maneuvers	Nilz_Baris_Challenge	Challenge	Argue or Negotiate	C
+Norman	Starfleet Maneuvers	Norman_Challenge	Challenge	Ambush or Argue or Command	C
+Redjac	Starfleet Maneuvers	Redjac_Challenge	Challenge	Ambush or Mind Control	C
+Stella	Starfleet Maneuvers	Stella_Challenge	Challenge	Argue or Command	C
+Sylvia	Starfleet Maneuvers	Sylvia_Challenge	Challenge	Tempt or Attack	C
+Teer Akaar	Starfleet Maneuvers	Teer_Akaar_Challenge	Challenge	Negotiate	C
+T'Pau	Starfleet Maneuvers	TPau_Challenge	Challenge	Argue or Command	U
+T'Pring	Starfleet Maneuvers	TPring_Challenge	Challenge	Command or *	V
+Tribbles [L]	Starfleet Maneuvers	Tribbles_(Blue_Icon)_Challenge	Challenge	Befuddle (Logic)	U
+Tribbles [C]	Starfleet Maneuvers	Tribbles_(Red_Icon)_Challenge	Challenge	Befuddle (Combat)	C
+Tribbles [H]	Starfleet Maneuvers	Tribbles_(Yellow_Icon)_Challenge	Challenge	Befuddle (Humanity)	U/C
+Vaal	Starfleet Maneuvers	Vaal_Challenge	Challenge	Attack or Outwit	R
+Zombie Crew	Starfleet Maneuvers	Zombie_Crew_Challenge	Challenge	Capture	C
+Admiral Komack	Starfleet Maneuvers	Admiral_Komack_Crew	Crew		R
+Captain Christopher Pike	Starfleet Maneuvers	Captain_Christopher_Pike_Crew	Crew		V
+Captain Ramart	Starfleet Maneuvers	Captain_Ramart_Crew	Crew		R
+Commodore Stocker	Starfleet Maneuvers	Commodore_Stocker_Crew	Crew		V
+Ensign Freeman	Starfleet Maneuvers	Ensign_Freeman_Crew	Crew		C
+Ensign Hendorf	Starfleet Maneuvers	Ensign_Hendorf_Crew	Crew		U
+Ensign Montgomery	Starfleet Maneuvers	Ensign_Montgomery_Crew	Crew		U
+Lieutenant Carolyn Palamas	Starfleet Maneuvers	Lieutenant_Carolyn_Palamas_Crew	Crew		U
+Lieutenant Chip Carter	Starfleet Maneuvers	Lieutenant_Chip_Carter_Crew	Crew		V
+Lieutenant Hanson	Starfleet Maneuvers	Lieutenant_Hanson_Crew	Crew		U
+Lieutenant Jackson	Starfleet Maneuvers	Lieutenant_Jackson_Crew	Crew		C
+Lieutenant Jose' Tyler	Starfleet Maneuvers	Lieutenant_Jose_Tyler_Crew	Crew		U
+Lieutenant Kaplan	Starfleet Maneuvers	Lieutenant_Kaplan_Crew	Crew		R
+Lieutenant Karen Tracy	Starfleet Maneuvers	Lieutenant_Karen_Tracy_Crew	Crew		U
+Lieutenant Marlena Moreau	Starfleet Maneuvers	Lieutenant_Marlena_Moreau_Crew	Crew		R
+Lieutenant Palmer	Starfleet Maneuvers	Lieutenant_Palmer_Crew	Crew		S
+Lieutenant Ron Perazza	Starfleet Maneuvers	Lieutenant_Ron_Perazza_Crew	Crew		V
+Lieutenant Rowe	Starfleet Maneuvers	Lieutenant_Rowe_Crew	Crew		U
+Lieutenant Singh	Starfleet Maneuvers	Lieutenant_Singh_Crew	Crew		C
+Lieutenant Steve Domzalski	Starfleet Maneuvers	Lieutenant_Steve_Domzalski_Crew	Crew		V
+Lieutenant Tonia Barrows	Starfleet Maneuvers	Lieutenant_Tonia_Barrows_Crew	Crew		V
+Lieutenant Washburn	Starfleet Maneuvers	Lieutenant_Washburn_Crew	Crew		R
+Number One	Starfleet Maneuvers	Number_One_Crew	Crew		C
+Nurse Cheryl Thomas	Starfleet Maneuvers	Nurse_Cheryl_Thomas_Crew	Crew		V
+Yeoman Colt	Starfleet Maneuvers	Yeoman_Colt_Crew	Crew		C
+Amok Time [D]	Starfleet Maneuvers	Amok_Time_Discovery	Episode Discovery		U
+Catspaw [D]	Starfleet Maneuvers	Catspaw_Discovery	Episode Discovery		V
+Friday's Child [D]	Starfleet Maneuvers	Fridays_Child_Discovery	Episode Discovery		V
+I, Mudd [D]	Starfleet Maneuvers	I_Mudd_Discovery	Episode Discovery		V
+Metamorphosis [D]	Starfleet Maneuvers	Metamorphosis_Discovery	Episode Discovery		V
+Mirror, Mirror [D]	Starfleet Maneuvers	Mirror_Mirror_Discovery	Episode Discovery		U
+The Apple [D]	Starfleet Maneuvers	The_Apple_Discovery	Episode Discovery		V
+The Changeling [D]	Starfleet Maneuvers	The_Changeling_Discovery	Episode Discovery		R
+The Deadly Years [D]	Starfleet Maneuvers	The_Deadly_Years_Discovery	Episode Discovery		R
+The Doomsday Machine [D]	Starfleet Maneuvers	The_Doomsday_Machine_Discovery	Episode Discovery		V
+The Trouble With Tribbles [D]	Starfleet Maneuvers	The_Trouble_With_Tribbles_Discovery	Episode Discovery		C
+Who Mourns For Adonais? [D]	Starfleet Maneuvers	Who_Mourns_For_Adonais_Discovery	Episode Discovery		S
+Wolf In The Fold [D]	Starfleet Maneuvers	Wolf_In_The_Fold_Discovery	Episode Discovery		C
+Adrenaline	Starfleet Maneuvers	Adrenaline_Effect	Effect		R
+Agonizer	Starfleet Maneuvers	Agonizer_Effect	Effect		R
+Ahn-Woon	Starfleet Maneuvers	Ahn-Woon_Effect	Effect		C
+Highly Illogical Behavior	Starfleet Maneuvers	Highly_Illogical_Behavior_Effect	Effect		R
+Kligat	Starfleet Maneuvers	Kligat_Effect	Effect		C
+Lirpa	Starfleet Maneuvers	Lirpa_Effect	Effect		C
+Native Club	Starfleet Maneuvers	Native_Club_Effect	Effect		S
+Plate of Gems	Starfleet Maneuvers	Plate_of_Gems_Effect	Effect		C
+Plomeek Soup	Starfleet Maneuvers	Plomeek_Soup_Effect	Effect		S
+Quadrotriticale	Starfleet Maneuvers	Quadrotriticale_Effect	Effect		S
+Redjak's Knife	Starfleet Maneuvers	Redjaks_Knife_Effect	Effect		C
+Sonic Pulse	Starfleet Maneuvers	Sonic_Pulse_Effect	Effect		C
+Taunt	Starfleet Maneuvers	Taunt_Effect	Effect		S
+Universal Translator	Starfleet Maneuvers	Universal_Translator_Effect	Effect		R
+Verifier	Starfleet Maneuvers	Verifier_Effect	Effect		R
+Amok Time [M]	Starfleet Maneuvers	Amok_Time_Mission	Episode Mission		U
+Catspaw [M]	Starfleet Maneuvers	Catspaw_Mission	Episode Mission		V
+Friday's Child [M]	Starfleet Maneuvers	Fridays_Child_Mission	Episode Mission		U
+I, Mudd [M]	Starfleet Maneuvers	I_Mudd_Mission	Episode Mission		V
+Metamorphosis [M]	Starfleet Maneuvers	Metamorphosis_Mission	Episode Mission		U
+Mirror, Mirror [M]	Starfleet Maneuvers	Mirror_Mirror_Mission	Episode Mission		C
+The Apple [M]	Starfleet Maneuvers	The_Apple_Mission	Episode Mission		U
+The Changeling [M]	Starfleet Maneuvers	The_Changeling_Mission	Episode Mission		U
+The Deadly Years [M]	Starfleet Maneuvers	The_Deadly_Years_Mission	Episode Mission		C
+The Doomsday Machine [M]	Starfleet Maneuvers	The_Doomsday_Machine_Mission	Episode Mission		V
+The Trouble With Tribbles [M]	Starfleet Maneuvers	The_Trouble_With_Tribbles_Mission	Episode Mission		U
+Who Mourns For Adonais? [M]	Starfleet Maneuvers	Who_Mourns_For_Adonais_Mission	Episode Mission		V
+Wolf In The Fold [M]	Starfleet Maneuvers	Wolf_In_The_Fold_Mission	Episode Mission		R
+Agony Booth	Starfleet Maneuvers	Agony_Booth_Permanent_Wild	Permanent Wild		C
+Apollo's Shrine	Starfleet Maneuvers	Apollos_Shrine_Permanent_Wild	Permanent Wild		U
+Asteroid Yonada	Starfleet Maneuvers	Asteroid_Yonada_Permanent_Wild	Permanent Wild		C
+Aurora	Starfleet Maneuvers	Aurora_Permanent_Wild	Permanent Wild		R
+Botany Bay	Starfleet Maneuvers	Botany_Bay_Permanent_Wild	Permanent Wild		U
+Captain's Chair	Starfleet Maneuvers	Captains_Chair_Permanent_Wild	Permanent Wild		U
+Central Control	Starfleet Maneuvers	Central_Control_Permanent_Wild	Permanent Wild		R
+DEEP SPACE STATION K-7	Starfleet Maneuvers	DEEP_SPACE_STATION_K-7_Permanent_Wild	Permanent Wild		U
+Engineering Room	Starfleet Maneuvers	Engineering_Room_Permanent_Wild	Permanent Wild		U
+I.S.S. ENTERPRISE	Starfleet Maneuvers	ISS_ENTERPRISE_Permanent_Wild	Permanent Wild		R
+Klingon Battle Cruiser	Starfleet Maneuvers	Klingon_Battle_Cruiser_Permanent_Wild	Permanent Wild		V
+Magnetic Storm	Starfleet Maneuvers	Magnetic_Storm_Permanent_Wild	Permanent Wild		U
+Orion Smugglers	Starfleet Maneuvers	Orion_Smugglers_Permanent_Wild	Permanent Wild		V
+Planet Killer	Starfleet Maneuvers	Planet_Killer_Permanent_Wild	Permanent Wild		R
+Romulan Neutral Zone	Starfleet Maneuvers	Romulan_Neutral_Zone_Permanent_Wild	Permanent Wild		V
+Science Station	Starfleet Maneuvers	Science_Station_Permanent_Wild	Permanent Wild		U
+SHUTTLECRAFT COLUMBUS	Starfleet Maneuvers	SHUTTLECRAFT_COLUMBUS_Permanent_Wild	Permanent Wild		S
+Sick Bay	Starfleet Maneuvers	Sick_Bay_Permanent_Wild	Permanent Wild		U
+Star Charts	Starfleet Maneuvers	Star_Charts_Permanent_Wild	Permanent Wild		U
+Tantalus Field	Starfleet Maneuvers	Tantalus_Field_Permanent_Wild	Permanent Wild		R
+Tholian Web	Starfleet Maneuvers	Tholian_Web_Permanent_Wild	Permanent Wild		U
+Top Security Brig	Starfleet Maneuvers	Top_Security_Brig_Permanent_Wild	Permanent Wild		V
+U.S.S. CONSTELLATION	Starfleet Maneuvers	USS_CONSTELLATION_Permanent_Wild	Permanent Wild		C
+U.S.S. LEXINGTON	Starfleet Maneuvers	USS_LEXINGTON_Permanent_Wild	Permanent Wild		C
+Warning Beacon	Starfleet Maneuvers	Warning_Beacon_Permanent_Wild	Permanent Wild		C
+Amok Time [P]	Starfleet Maneuvers	Amok_Time_Plot	Episode Plot		R
+Catspaw [P]	Starfleet Maneuvers	Catspaw_Plot	Episode Plot		U
+Friday's Child [P]	Starfleet Maneuvers	Fridays_Child_Plot	Episode Plot		V
+I, Mudd [P]	Starfleet Maneuvers	I_Mudd_Plot	Episode Plot		U
+Metamorphosis [P]	Starfleet Maneuvers	Metamorphosis_Plot	Episode Plot		R
+Mirror, Mirror [P]	Starfleet Maneuvers	Mirror_Mirror_Plot	Episode Plot		V
+The Apple [P]	Starfleet Maneuvers	The_Apple_Plot	Episode Plot		C
+The Changeling [P]	Starfleet Maneuvers	The_Changeling_Plot	Episode Plot		V
+The Deadly Years [P]	Starfleet Maneuvers	The_Deadly_Years_Plot	Episode Plot		V
+The Doomsday Machine [P]	Starfleet Maneuvers	The_Doomsday_Machine_Plot	Episode Plot		U
+The Trouble With Tribbles [P]	Starfleet Maneuvers	The_Trouble_With_Tribbles_Plot	Episode Plot		V
+Who Mourns For Adonais? [P]	Starfleet Maneuvers	Who_Mourns_For_Adonais_Plot	Episode Plot		U
+Wolf In The Fold [P]	Starfleet Maneuvers	Wolf_In_The_Fold_Plot	Episode Plot		U
+Advanced Aging	Starfleet Maneuvers	Advanced_Aging_Wild	Wild		V
+Android Overload	Starfleet Maneuvers	Android_Overload_Wild	Wild		U
+Antigrav Units	Starfleet Maneuvers	Antigrav_Units_Wild	Wild		R
+Argelian Empathic Contact	Starfleet Maneuvers	Argelian_Empathic_Contact_Wild	Wild		R
+Bows and Arrows	Starfleet Maneuvers	Bows_and_Arrows_Wild	Wild		R
+Cavalry Arrives	Starfleet Maneuvers	Cavalry_Arrives_Wild	Wild		R
+Clean Slate	Starfleet Maneuvers	Clean_Slate_Wild	Wild		V
+Code 2	Starfleet Maneuvers	Code_2_Wild	Wild		U
+Competency Hearing	Starfleet Maneuvers	Competency_Hearing_Wild	Wild		R
+Cultural Taboo	Starfleet Maneuvers	Cultural_Taboo_Wild	Wild		R
+Friendly Welcome	Starfleet Maneuvers	Friendly_Welcome_Wild	Wild		R
+Kal-if-fee	Starfleet Maneuvers	Kal-if-fee_Wild	Wild		R
+Magnesite-Nitron Tablet	Starfleet Maneuvers	Magnesite-Nitron_Tablet_Wild	Wild		R
+Manual Override	Starfleet Maneuvers	Manual_Override_Wild	Wild		R
+Masiform D	Starfleet Maneuvers	Masiform_D_Wild	Wild		U
+Neural Paralyzer	Starfleet Maneuvers	Neural_Paralyzer_Wild	Wild		R
+Plak-tow	Starfleet Maneuvers	Plak-tow_Wild	Wild		R
+Pon farr	Starfleet Maneuvers	Pon_farr_Wild	Wild		R
+Reeducation	Starfleet Maneuvers	Reeducation_Wild	Wild		V
+Suicide Mission	Starfleet Maneuvers	Suicide_Mission_Wild	Wild		R
+Sympathetic Magic	Starfleet Maneuvers	Sympathetic_Magic_Wild	Wild		U
+Transmuter	Starfleet Maneuvers	Transmuter_Wild	Wild		U
+Transporter Swap	Starfleet Maneuvers	Transporter_Swap_Wild	Wild		R
+Arena	Promo	Arena_Wild	Wild		P
+Cryogenic Chambers	Promo	Cryogenic_Chambers_Permanent_Wild	Permanent Wild		P
+Emergency Distress Call	Promo	Emergency_Distress_Call_Wild	Wild		P
+Ensign Pavel A. Chekov*	Promo	Ensign_Pavel_A_Chekov_Crew_Promo	Crew		P
+He's Dead Jim	Promo	Hes_Dead_Jim_Wild	Wild		P
+Living In The Past	Promo	Living_In_The_Past_Wild	Wild		P
+Organians	Promo	Organians_Challenge	Challenge	Enigma	P
+Phaser Mishap	Promo	Phaser_Mishap_Wild	Wild		P
+Shirtless Kirk	Promo	Shirtless_Kirk_Wild	Wild		P
+Turbolift Doors	Promo	Turbolift_Doors_Wild	Wild		P

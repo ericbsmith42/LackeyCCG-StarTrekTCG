@@ -1,0 +1,73 @@
+<packdefinitions version="1.0">
+
+<pack><packtitle>Starter</packtitle>
+	<packimage>Starter</packimage>
+	<packformat>$8.95</packformat>
+	<packkind>Starter</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>Base</data></packcommoncrit>
+		<chance>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+			<kind><qty>30</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>15</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
+		</chance>
+</pack>
+
+<pack><packtitle>Booster</packtitle>
+	<packimage>Booster</packimage>
+	<packformat>$2.75</packformat>
+	<packkind>Booster Pack</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>Base</data></packcommoncrit>
+		<chance>
+			<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
+		</chance>
+</pack>
+
+<pack><packtitle>Starfleet Maneuvers</packtitle>
+	<packimage>Starfleet_Maneuvers</packimage>
+	<packformat>$2.95</packformat>
+	<packkind>Booster Pack</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>Starfleet Maneuvers</data></packcommoncrit>
+		<chance>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+			<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
+		</chance>
+</pack>
+
+<pack><packtitle>Booster Box</packtitle>
+	<packimage>Box</packimage>
+	<packformat>$99.00</packformat>
+	<packkind>Booster Box</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>Base</data></packcommoncrit>
+		<chance>
+			<kind><qty>288</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
+		</chance>
+</pack>
+
+<pack><packtitle>Starfleet Maneuvers Box</packtitle>
+	<packimage>Starfleet_Maneuvers_Box</packimage>
+	<packformat>$106.20</packformat>
+	<packkind>Booster Pack</packkind>
+	<packdoubles>yes</packdoubles>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>Starfleet Maneuvers</data></packcommoncrit>
+		<chance>
+			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+			<kind><qty>216</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+			<kind><qty>144</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+			<kind><qty>72</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+			<kind><qty>36</qty><crit><field>Rarity</field><eval>IS</eval><data>V</data></crit></kind>
+		</chance>
+</pack>
+
+</packdefinitions>

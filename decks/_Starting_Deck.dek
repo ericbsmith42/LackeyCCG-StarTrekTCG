@@ -1,0 +1,15 @@
+<deck version="0.8">
+	<meta>
+		<game>StarTrekTCG</game>
+	</meta>
+	<superzone name="Starting Cards">
+		<card><name id="Captain_James_T_Kirk_Core_Crew,silverback">Captain James T. Kirk</name><set>Base</set></card>
+		<card><name id="Dr_Leonard_H_Bones_McCoy_Core_Crew,silverback">Dr. Leonard H. Bones McCoy</name><set>Base</set></card>
+		<card><name id="Commander_Spock_Core_Crew,silverback">Commander Spock</name><set>Base</set></card>
+		<card><name id="USS_Enterprise_Core_Crew,silverback">U.S.S. Enterprise</name><set>Base</set></card>
+		<card><name id="CORE_EPISODE_Default_Mission,silverback">Default Mission</name><set>Base</set></card>
+		<card><name id="CORE_EPISODE_Default_Discovery,silverback">Default Discovery</name><set>Base</set></card>
+		<card><name id="CORE_EPISODE_Default_Plot,silverback">Default Plot</name><set>Base</set></card>
+		<card><name id="Info_Card_Info_Card,silverback">Info Card</name><set>Base</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,22 @@
+(PoP?) Pass or Play?
+Pass.
+Proceed.
+Thinking...
+Hold on... (holdon.wav)
+(EoT) At end of turn... (endofturn.wav)
+Attack!
+In response...
+Your turn... (yourturn.wav)
+Don't undestand (shucks.wav)
+Dead Jim (wow.wav)
+Thanks (thanks.wav)
+Mulligan.
+Done.
+Fascinating (yay.wav)
+Illogical (wtf.wav)
+Logical (logical.wav)
+Don't know (dontknow.wav)
+Ready?
+Done?
+/mkupdate plugins/StarTrekTCG/updatelist.txt
+/checksum plugins/StarTrekTCG/version.txt
