@@ -185,7 +185,8 @@ Slug of Saurian Brandy	Base	Slug_of_Saurian_Brandy_Effect	Effect		C
 Song of a Vulcan Harp	Base	Song_of_a_Vulcan_Harp_Effect	Effect		R
 Tricorder Reading [C]	Base	Tricorder_Reading_(Red_Icon)_Effect	Effect	Combat	C
 Tricorder Reading [H]	Base	Tricorder_Reading_(Yellow_Icon)_Effect	Effect	Humanity	C
-Info Card	Base	Info_Card_Info_Card,silverback	Core Info Card		S
+Info Card 1	Base	Info_Card_Info_Card,silverback	Core Info Card		S
+Info Card 2	Base	Info_Card_Info_Card2,silverback	Core Info Card		S
 A Taste of Armageddon [M]	Base	A_Taste_of_Armageddon_Mission	Episode Mission		U
 Arena [M]	Base	Arena_Mission	Episode Mission		C
 Balance of Terror [M]	Base	Balance_of_Terror_Mission	Episode Mission		C
@@ -476,3 +477,4 @@ Organians	Promo	Organians_Challenge	Challenge	Enigma	P
 Phaser Mishap	Promo	Phaser_Mishap_Wild	Wild		P
 Shirtless Kirk	Promo	Shirtless_Kirk_Wild	Wild		P
 Turbolift Doors	Promo	Turbolift_Doors_Wild	Wild		P
+Medikit	Promo	Medikit_Effect	Effect		P

@@ -71,9 +71,9 @@
 <fontkind3pos2>Lato-Reg.ttf</fontkind3pos2>
 <fontkind3pos3>Amaranth.ttf</fontkind3pos3>
 <fontkind3pos4>Play-Regular.ttf</fontkind3pos4>
-<fontsize0>20</fontsize0>
-<fontsize1>20</fontsize1>
-<fontsize2>15</fontsize2>
+<fontsize0>12</fontsize0>
+<fontsize1>12</fontsize1>
+<fontsize2>12</fontsize2>
 <fontsize3>20</fontsize3>
 <bindingmain0>CTRL+h</bindingmain0>
 <bindingmain1>CTRL+j</bindingmain1>
