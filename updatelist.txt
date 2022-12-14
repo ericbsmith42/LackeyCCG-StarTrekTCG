@@ -3,9 +3,9 @@ plugins/StarTrekTCG/version.txt	https://raw.githubusercontent.com/ericbsmith42/L
 plugins/StarTrekTCG/bot.jpg	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/bot.jpg	-12022
 plugins/StarTrekTCG/defaultchat.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/defaultchat.txt	37740
 plugins/StarTrekTCG/plugininfo.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/plugininfo.txt	345392
-plugins/StarTrekTCG/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/pluginpreferences.txt	546553
+plugins/StarTrekTCG/pluginpreferences.txt	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/pluginpreferences.txt	579099
 plugins/StarTrekTCG/Quick_Reference.docx	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/Quick_Reference.docx	-201665
-plugins/StarTrekTCG/Star_Trek_TCG_Rulebook.pdf	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/Star_Trek_TCG_Rulebook.pdf	3623772
+plugins/StarTrekTCG/Star_Trek_TCG_Rulebook.pdf	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/Star_Trek_TCG_Rulebook.pdf	3596443
 images/backgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/images/backgrounds/starfield.png	-49421
 images/zonebackgrounds/starfield.png	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/images/zonebackgrounds/starfield.png	-4411
 plugins/StarTrekTCG/decks/_Starting_Deck.dek	https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/decks/_Starting_Deck.dek	90756

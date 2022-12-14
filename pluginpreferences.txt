@@ -30,7 +30,11 @@
 <recentoutgoingsound>plugins/INWO/sounds/pass.wav</recentoutgoingsound>
 <recentoutgoingsound>plugins/INWO/sounds/proceed.wav</recentoutgoingsound>
 <recentoutgoingsound>plugins/INWO/sounds/thinking.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/StarTrekTCG/sounds/shucks.wav</recentoutgoingsound>
 <recentoutgoingsound>plugins/StarTrekTCG/sounds/wow.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/StarTrekTCG/sounds/thanks.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/StarTrekTCG/sounds/dontknow.wav</recentoutgoingsound>
+<recentoutgoingsound>plugins/StarTrekTCG/sounds/holdon.wav</recentoutgoingsound>
 <canned>(PoP?) Pass or Play?</canned>
 <canned>Pass.</canned>
 <canned>Proceed.</canned>
@@ -128,7 +132,6 @@
 <quickzoom>4.000000</quickzoom>
 <panx>-0.030000</panx>
 <pany>-0.030000</pany>
-<tilt>27.000000</tilt>
 <prevtilt>27.000000</prevtilt>
 <isdownloadallmissing>1</isdownloadallmissing>
 <isusingscripts>0</isusingscripts>
