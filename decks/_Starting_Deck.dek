@@ -10,6 +10,7 @@
 		<card><name id="CORE_EPISODE_Default_Mission,silverback">Default Mission</name><set>Base</set></card>
 		<card><name id="CORE_EPISODE_Default_Discovery,silverback">Default Discovery</name><set>Base</set></card>
 		<card><name id="CORE_EPISODE_Default_Plot,silverback">Default Plot</name><set>Base</set></card>
-		<card><name id="Info_Card_Info_Card,silverback">Info Card</name><set>Base</set></card>
+		<card><name id="Info_Card_Info_Card,silverback">Info Card 1</name><set>Base</set></card>
+		<card><name id="Info_Card_Info_Card2,silverback">Info Card 2</name><set>Base</set></card>
 	</superzone>
 </deck>
