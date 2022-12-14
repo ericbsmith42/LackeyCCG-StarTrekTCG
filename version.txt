@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>221312</lastupdateYYMMDD>
+<lastupdateYYMMDD>221214</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/ericbsmith42/LackeyCCG-StarTrekTCG/main/updatelist.txt</updateurl>
